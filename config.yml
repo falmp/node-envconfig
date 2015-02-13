@@ -1,0 +1,12 @@
+---
+
+key1: 'value1'
+parent:
+    key2: 'value2'
+    parent2:
+        key3: 'value3'
+    key5: 12345
+key4: 1234
+key6:
+    - 'array1'
+    - 'array2'
